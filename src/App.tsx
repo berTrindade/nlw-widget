@@ -1,9 +1,10 @@
 import { useState } from 'react'
+import { Widget } from './components/Widget'
 
 function App() {
 
   return (
-    <h1>NLW Return</h1>
+    <Widget />
   )
 }
 
