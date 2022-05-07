@@ -16,7 +16,7 @@
 ## Sobre a aplicação
 Aplicação desenvolvida em React com Vite + Typescript durante o NLW Return, promovido pela Rocketseat.<br />
 Durante o evento, foram desenvolvidas 3 aplicações, uma [API em Node](https://github.com/luiizsilverio/nlw-prisma), uma aplicação React e um [App em React Native](https://github.com/luiizsilverio/nlw-mobile).<br />
-A aplicação consiste em um botão flutuante, no estilo widget, que permite relatar um problema ou comentário, tirar um screenshot da tela e enviar por e-mail, além de enviar o feedback para a API.<br />
+A aplicação consiste em um botão flutuante, no estilo widget, que permite relatar um problema ou comentário, tirar um screenshot da tela e enviar para a API, que se encarregará de gravar o feedback no banco e enviar um e-mail.<br />
 Esta aplicação está rodando na Vercel, neste [Link](https://nlw-widget-snowy.vercel.app).
 
 ## :hammer_and_wrench: Tecnologias
