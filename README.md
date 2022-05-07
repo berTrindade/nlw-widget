@@ -6,13 +6,13 @@
 </table>
 
 ## Conteúdo
-* [Sobre o Projeto](#sobre-o-projeto)
+* [Sobre a aplicação](#sobre-a-aplicação)
 * [Tecnologias](#hammer_and_wrench-tecnologias)
 * [Screenshots](#camera_flash-screenshots)
 * [Licença](#balance_scale-licença)
 * [Contato](#email-contato)
 
-## Sobre o projeto
+## Sobre a aplicação
 Aplicação desenvolvida em React com Vite + Typescript durante o NLW Return, promovido pela Rocketseat.<br />
 Durante o evento, foram desenvolvidas 3 aplicações, uma [API em Node](https://github.com/luiizsilverio/nlw-prisma), uma aplicação React e um [App em React Native](https://github.com/luiizsilverio/nlw-mobile).<br />
 A aplicação consiste em um botão flutuante, no estilo widget, que permite relatar um problema ou comentário, tirar um screenshot da tela e enviar por e-mail, além de gravar no banco de dados da API.<br />
